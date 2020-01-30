@@ -1,0 +1,36 @@
+{
+  "name": {
+    "zh-cn": "掌控板蓝牙串口 ",
+    "en": "Mpython Bluetooth Serial"
+  },
+  "description": {
+    "zh-cn": "针对掌控板的蓝牙串口功能。",
+    "en": "Bluetooth serial port function for the mpython board."
+  },
+  "auther": "liliang",
+  "email": "969316753@qq.com",
+  "license": "MIT",
+  "isTest": true,
+  "isBoard": false,
+  "id": "ESP32BluetoothSerial",
+  "platform": [
+    "win"
+  ],
+  "asset": {
+    "arduinoC": {
+      "dir": "arduinoC/",
+      "version": "0.1.0",
+      "board": [
+        "esp32"
+      ],
+      "main": "main.ts",
+      "files": [
+        "_menus/esp32.json",
+        "_locales/zh-cn.json",
+        "_images/icon.svg", 
+        "libraries/ESP32BluetoothSerial/BluetoothSerial.h",
+        "libraries/ESP32BluetoothSerial/BluetoothSerial.cpp"
+      ]
+    }
+  }
+}

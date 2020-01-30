@@ -1,0 +1,6 @@
+{
+	"SER":{
+		"menu":[["Serial","Serial"]],
+		"default_beginSerial":"Serial"
+	}
+}

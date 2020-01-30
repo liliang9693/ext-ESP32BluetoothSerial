@@ -1,0 +1,7 @@
+{
+    "ESP32BluetoothSerial.BTInit|block": "蓝牙串口 初始化 蓝牙名称为:[NAME]",
+    "ESP32BluetoothSerial.BTAvailable|block": "蓝牙串口 有数据可读？",
+    "ESP32BluetoothSerial.BTRead|block": "蓝牙串口 读取一字节",
+    "ESP32BluetoothSerial.BTWrite|block": "蓝牙串口 发送数据[DAT]"
+  
+}
